@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 3
+=======
+Testowa wiadomosc 1
+>>>>>>> 43747a9 (Zmiany na produkcie A)
